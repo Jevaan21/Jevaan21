@@ -21,7 +21,7 @@
 
 ## Profile Summary
 
-Secure Full-Stack Freelance Developer with a Computer Science degree majoring in Cybersecurity. Experienced in building digital wellness platforms, secure dashboards, and risk-related analysis models using Python, SQL, Power BI, and machine learning. Driven to apply data science and analytical problem-solving to support financial sector decision-making and risk assessment.
+Secure Full-Stack Developer with a Computer Science degree majoring in Cybersecurity. Experienced in building digital wellness platforms, secure dashboards, and risk-related analysis models using Python, SQL, Power BI, and machine learning. Driven to apply data science and analytical problem-solving to support financial sector decision-making and risk assessment.
 
 ---
 
