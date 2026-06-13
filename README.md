@@ -14,7 +14,6 @@
   <a href="https://github.com/Jevaan21">GitHub</a> |
   <a href="https://www.linkedin.com/in/jevaan-seenivasagam/">LinkedIn</a> |
   <a href="mailto:jevaanseenivasagam44@gmail.com">Email</a> |
-  <a href="tel:+601121399591">+60 11-2139 9591</a>
 </p>
 
 ---
