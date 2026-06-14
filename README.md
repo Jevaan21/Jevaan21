@@ -64,6 +64,30 @@ Secure Full-Stack Developer with a Computer Science degree majoring in Cybersecu
 
 ---
 
+## Certifications
+
+- Elite Live SOC Module - Techforte
+- Rocheston Certified Cybersecurity Engineer - Rocheston
+- CODE COMBAT [X] I-HACK 2024 CAPTURE THE FLAG (CTF) - UTM
+- CCNAv7: Switching, Routing, and Wireless Essentials - Cisco Networking Academy
+- CCNAv7: Introduction to Networks - Cisco Networking Academy
+
+---
+
+## Education
+
+### Asia Pacific University (APU)  
+**Nov. 2022 - Jan. 2026**
+
+- Bachelor of Computer Science (Cyber Security), CGPA 3.33
+
+### Multimedia University (MMU)  
+**Aug. 2021 - Aug. 2022**
+
+- Foundation in Information Technology, CGPA 3.63
+
+---
+
 ## Featured Project
 
 ### Reinforcement-Learning-in-IDS
