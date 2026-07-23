@@ -1,103 +1,152 @@
-<h1 align="center">Hi, I'm Jevaan</h1>
+<h1 align="center">Hi, I'm Jevaan 👋</h1>
 
 <p align="center">
-  <b>Cybersecurity-Focused Full-Stack Developer | AI Automation | Risk Analytics | Founder @ XPLOITDEVMATRIX</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Focused-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity Focused" />
-  <img src="https://img.shields.io/badge/AI-Automation-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Automation" />
-  <img src="https://img.shields.io/badge/Risk-Analytics-16A34A?style=for-the-badge&logo=databricks&logoColor=white" alt="Risk Analytics" />
+  <b>Full-Stack Developer | AI, Automation & Cybersecurity</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Jevaan21">GitHub</a> |
-  <a href="https://www.linkedin.com/in/jevaan-seenivasagam/">LinkedIn</a> |
-  <a href="mailto:jevaanseenivasagam44@gmail.com">Email</a> |
+  <img src="https://img.shields.io/badge/Full--Stack-Development-2563EB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-LLM_Integration-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Secure_Systems-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jevaan21">GitHub</a> •
+  <a href="https://www.linkedin.com/in/jevaan-seenivasagam/">LinkedIn</a> •
+  <a href="mailto:jevaanseenivasagam44@gmail.com">Email</a>
 </p>
 
 ---
 
-## Profile Summary
+# About Me
 
-Secure Full-Stack Developer with a Computer Science degree majoring in Cybersecurity. Experienced in building digital wellness platforms, secure dashboards, and risk-related analysis models using Python, SQL, Power BI, and machine learning. Driven to apply data science and analytical problem-solving to support financial sector decision-making and risk assessment.
+I'm a **Full-Stack Developer** with a Computer Science degree specializing in **Cybersecurity** from Asia Pacific University (APU).
 
----
+I develop secure, scalable web and mobile applications powered by **AI, Large Language Models (LLMs), and automation**. My work combines software engineering, cloud technologies, and cybersecurity principles to build practical digital solutions that improve operational efficiency and business workflows.
 
-## Experience Highlights
+### My expertise includes
 
-### Founder - XPLOITDEVMATRIX Technologies  
-**Aug 2025 - Present | Kuala Lumpur, Malaysia**
-
-- Architect and deliver bespoke enterprise software solutions across web, mobile, and desktop platforms.
-- Build AI-powered automation workflows, intelligent chatbots, and process automation systems that improve operational efficiency.
-- Design interactive dashboards and risk-analysis models for business intelligence and reporting.
-- Manage full SDLC from technical strategy and scoping to deployment and maintenance.
-- Translate complex client requirements into scalable, secure digital infrastructure.
-
-### Junior Technician - Vulsan X Cydef Sdn Bhd  
-**Aug 2024 - Dec 2024 | Seremban, Malaysia**
-
-- Maintained Cyber Threat Intelligence (CTI) data with APT tracking, IOC collection, and sandbox domain testing.
-- Executed OSINT monitoring for brand protection and threat/compliance detection.
-- Built and optimized frontend components for an internal cybersecurity dashboard.
-- Worked on network security architecture involving DMZ, firewalls, routers, and honeypots.
-- Created web scraping workflows for structured threat reporting and enforcement operations.
+- 🤖 AI & LLM Integrations
+- 🌐 Full-Stack Web & Mobile Development
+- ⚙️ Business Process Automation
+- ☁️ AWS Cloud Deployment
+- 🔒 Secure System Design
+- 🔗 Backend API Development
+- 📊 Interactive Dashboards & Analytics
+- 🛡️ Cybersecurity & Threat Intelligence
 
 ---
 
-## Technical Focus
+# Professional Experience
 
-- **Cybersecurity:** CTI, OSINT, threat monitoring, secure system design
-- **Data & AI:** Machine Learning, risk analytics, automation workflows
-- **Development:** Python, SQL, JavaScript, full-stack application engineering
-- **Visualization:** Power BI, interactive dashboard design
+## Full-Stack Developer
+**XploitDevMatrix Technologies**
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Cyber_Threat_Intelligence-DC2626?style=flat-square&logo=virustotal&logoColor=white" alt="Cyber Threat Intelligence" />
-</p>
+- Build AI-powered business applications and workflow automation solutions.
+- Develop secure web, mobile, and backend systems.
+- Design scalable REST APIs and cloud-native architectures.
+- Deliver custom enterprise software from planning to deployment.
+- Integrate modern AI models into real-world business workflows.
 
 ---
 
-## Certifications
+## Junior Technician
+**Vulsan X Cydef Sdn Bhd**
 
-- Elite Live SOC Module - Techforte
-- Rocheston Certified Cybersecurity Engineer - Rocheston
-- CODE COMBAT [X] I-HACK 2024 CAPTURE THE FLAG (CTF) - UTM
-- CCNAv7: Switching, Routing, and Wireless Essentials - Cisco Networking Academy
-- CCNAv7: Introduction to Networks - Cisco Networking Academy
-
----
-
-## Education
-
-### Asia Pacific University (APU)  
-**Nov. 2022 - Jan. 2026**
-
-- Bachelor of Computer Science (Cyber Security), CGPA 3.33
-
-### Multimedia University (MMU)  
-**Aug. 2021 - Aug. 2022**
-
-- Foundation in Information Technology, CGPA 3.63
+- Cyber Threat Intelligence (CTI)
+- OSINT Investigation
+- IOC Collection & Analysis
+- Frontend Dashboard Development
+- Network Security Architecture
+- Threat Reporting Automation
 
 ---
 
-## Featured Project
+# Tech Stack
 
-### Reinforcement-Learning-in-IDS
+### Languages
 
-This project develops an intelligent Intrusion Detection System (IDS) using Reinforcement Learning to overcome the limitations of traditional security models. Built with Python and PyTorch, the system learns from network behavior and adapts to evolving cyber threats in real time.
+Python • JavaScript • Java • SQL • HTML • CSS
+
+### Frameworks & Tools
+
+React • Node.js • Express • Flask • FastAPI
+
+### AI
+
+OpenAI API • LLM Integration • Prompt Engineering • AI Automation
+
+### Cloud
+
+AWS • Docker • Git • GitHub
+
+### Databases
+
+MySQL • PostgreSQL • MongoDB
+
+### Data & Visualization
+
+Power BI • Machine Learning • Data Analytics
+
+### Cybersecurity
+
+Threat Intelligence • OSINT • Secure Coding • Network Security • Risk Analysis
 
 ---
 
-## Open To
+# Certifications
 
-- Cybersecurity engineering opportunities
-- AI and automation-focused software roles
-- Risk analytics and data-driven security projects
+- Elite Live SOC Module
+- Rocheston Certified Cybersecurity Engineer
+- CCNA v7 Switching, Routing & Wireless Essentials
+- CCNA v7 Introduction to Networks
+- CODE COMBAT [X] I-HACK 2024 CTF
+
+---
+
+# Education
+
+## Asia Pacific University (APU)
+
+Bachelor of Computer Science (Cyber Security)
+
+CGPA: **3.33**
+
+---
+
+## Featured Projects
+
+### AI Business Automation
+
+AI-powered automation systems that streamline business operations using modern LLM technologies.
+
+### Reinforcement Learning Intrusion Detection System
+
+An intelligent IDS built using Python and PyTorch that adapts to evolving cyber threats through Reinforcement Learning.
+
+### Risk Analytics Dashboard
+
+Interactive dashboards and analytical models for business intelligence and risk assessment.
+
+---
+
+# Currently Exploring
+
+- AI Agents
+- Multi-Agent Systems
+- RAG Applications
+- AWS Cloud Architecture
+- DevSecOps
+- AI Automation
+- Secure Software Engineering
+
+---
+
+# Open To
+
+- Full-Stack Software Engineer
+- AI Engineer
+- Backend Developer
+- Cloud Engineer
+- Cybersecurity Engineer
+- AI Automation Consultant
