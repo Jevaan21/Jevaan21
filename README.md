@@ -20,7 +20,7 @@
 
 # About Me
 
-I'm a **Application Developer** with a Computer Science degree specializing in **Cybersecurity** from Asia Pacific University (APU).
+I'm a **Developer** with a Computer Science degree specializing in **Cybersecurity** from Asia Pacific University (APU).
 
 I develop secure, scalable web and mobile applications powered by **AI, Large Language Models (LLMs), and automation**. My work combines software engineering, cloud technologies, and cybersecurity principles to build practical digital solutions that improve operational efficiency and business workflows.
 
@@ -147,6 +147,5 @@ Interactive dashboards and analytical models for business intelligence and risk 
 - Full-Stack Software Engineer
 - AI Engineer
 - Backend Developer
-- Cloud Engineer
 - Cybersecurity Engineer
 - AI Automation Consultant
